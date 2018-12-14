@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec92dad7-33f2-4f3d-b414-81f1d10c51ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/viewOnlyPosts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EnterNameModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersBlogPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ViewOnlyHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/viewOnlyPostsReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DashboardPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DashboardPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostListFilters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostListFilters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostListItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ReadPostPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReadPostPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routers/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/AppRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/configureStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/configureStore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/_content-container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/_content-container.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +227,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/ViewOnlyHeader.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -256,11 +239,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/ReadPostPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="150">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -389,9 +372,9 @@
         <option value="$PROJECT_DIR$/src/reducers/viewOnlyPostsReducer.js" />
         <option value="$PROJECT_DIR$/src/components/UsersBlogPage.js" />
         <option value="$PROJECT_DIR$/src/styles/components/_content-container.scss" />
-        <option value="$PROJECT_DIR$/src/components/ReadPostPage.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/components/ViewOnlyHeader.js" />
+        <option value="$PROJECT_DIR$/src/components/ReadPostPage.js" />
       </list>
     </option>
   </component>
@@ -486,12 +469,12 @@
       <workItem from="1543576584695" duration="49950000" />
       <workItem from="1544013938886" duration="102407000" />
       <workItem from="1544609974541" duration="1215000" />
-      <workItem from="1544615075872" duration="39873000" />
+      <workItem from="1544615075872" duration="39966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193445000" />
+    <option name="totallyTimeSpent" value="193538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -506,7 +489,7 @@
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15282215" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15282215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -519,7 +502,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" visible="true" weight="0.3871287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" visible="true" weight="0.3871287" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" visible="true" weight="0.3871287" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -923,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ReadPostPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -956,6 +929,16 @@
           <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ReadPostPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>

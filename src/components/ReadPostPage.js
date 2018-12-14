@@ -2,7 +2,6 @@ import React from "react";
 import connect from "react-redux/es/connect/connect";
 import NotFoundPage from "../components/NotFoundPage";
 import {startSetViewOnlyPosts} from "../actions/viewOnlyPosts";
-import {Link} from "react-router-dom";
 import ViewOnlyHeader from "../components/ViewOnlyHeader";
 
 export const ReadPostPage = (props) => {
@@ -20,8 +19,6 @@ export const ReadPostPage = (props) => {
             return <NotFoundPage/>
         }
     }
-
-    const to = `/users/${props.uid}`;
 
     return (
     <div>
