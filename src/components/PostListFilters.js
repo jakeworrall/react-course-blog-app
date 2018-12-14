@@ -2,6 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import { DateRangePicker } from 'react-dates';
 import {setTextFilter, searchByTitle, searchByContent, searchByAll, setStartDate, setEndDate} from "../actions/filters";
+import {Link} from "react-router-dom";
 
 export class ExpenseListFilters extends React.Component {
     state = {
@@ -33,7 +34,7 @@ export class ExpenseListFilters extends React.Component {
 
     render() {
         return(
-            <div className="content-container">
+            <div className="content-container content-container--top">
                 <div className="input-group">
                     <div className="input-group__item">
                         <input
@@ -68,6 +69,7 @@ export class ExpenseListFilters extends React.Component {
                             displayFormat="DD/MM/YYYY"
                         />
                     </div>
+                    {!this.props.viewOnly && <Link className="button button--big" to="/create">New</Link>}
                 </div>
             </div>
         );
